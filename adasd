@@ -1,0 +1,78 @@
+[33mcommit 64ec16621359b61118e729ac8be3e304d1f1ea48[m
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Mon Dec 11 10:35:34 2017 +0800
+
+    new branch book
+
+[1mdiff --git a/book.txt b/book.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..28ab94e[m
+[1m--- /dev/null[m
+[1m+++ b/book.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mÐÂ¹¦ÄÜbook[m
+\ No newline at end of file[m
+
+[33mcommit 76d01e658968cbc4a27c0e8415a10cd5d3d6209f[m
+Merge: fe1525a 83e680e
+Author: shuang <570340350@qq.com>
+Date:   Thu Dec 7 22:47:31 2017 +0800
+
+    solve conflict
+
+[33mcommit 83e680e53a160115b9d3d2877935f0e3a16d9ad2[m
+Author: shuang <570340350@qq.com>
+Date:   Thu Dec 7 22:42:33 2017 +0800
+
+    feature1 update
+
+[1mdiff --git a/feature1.txt b/feature1.txt[m
+[1mindex dfee1e9..e0cc6a4 100644[m
+[1m--- a/feature1.txt[m
+[1m+++ b/feature1.txt[m
+[36m@@ -1 +1 @@[m
+[31m-featrue1 branch[m
+[32m+[m[32mfeatrue1 branch feature1 update[m
+
+[33mcommit fe1525afbd54c1e713e582772c9947c0af459ece[m
+Author: shuang <570340350@qq.com>
+Date:   Thu Dec 7 22:41:35 2017 +0800
+
+    master update
+
+[1mdiff --git a/feature1.txt b/feature1.txt[m
+[1mindex dfee1e9..711032e 100644[m
+[1m--- a/feature1.txt[m
+[1m+++ b/feature1.txt[m
+[36m@@ -1 +1 @@[m
+[31m-featrue1 branch[m
+[32m+[m[32mfeatrue1 branch master update[m
+
+[33mcommit 1919f6fe6b6270873e2081faed029019f72181b7[m
+Author: shuang <570340350@qq.com>
+Date:   Thu Dec 7 22:21:09 2017 +0800
+
+    feature1
+
+[1mdiff --git a/feature1.txt b/feature1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dfee1e9[m
+[1m--- /dev/null[m
+[1m+++ b/feature1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mfeatrue1 branch[m
+
+[33mcommit 072e351183568fca22d8785e26c767455584c2fd[m
+Author: androidShuang <shuang_zhao_yl@163.com>
+Date:   Thu Dec 7 21:43:06 2017 +0800
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2a5ee92[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# gitlearn[m
+[32m+[m[32mgit learn[m[41m [m
