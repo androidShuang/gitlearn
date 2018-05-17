@@ -1,2 +1,4 @@
 update by guo
 add java by guo
+add javascript by guo
+
