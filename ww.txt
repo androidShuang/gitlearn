@@ -1,19 +1,13 @@
-i want to go to school
-an wang some icereame
-and waned ...
-update amenid
-hahahahah
-hahahahah
-hhahahaha
+commit 079a1e315ecfc59f5a60ae074746cb6b2593791f
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 13:45:12 2018 +0800
 
+    nothing
 
-update hhahh
+commit 3a9bfdcb52b5da05cb112cf3a053503e74e4e443
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 13:35:33 2018 +0800
 
-sdsds
-
-sdsds
-
-sdsds
-update2
+    update amend.txt
 
 
