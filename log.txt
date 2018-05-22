@@ -1,0 +1,27 @@
+commit 1b6841ac58730c345924bb32d2b5dcd3d4d294a5
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 14:22:10 2018 +0800
+
+    learn amend
+
+commit 7e6251bcd58b3cccfa5a2d4f92a535a7ddf010d5
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 13:45:12 2018 +0800
+
+    nothing
+
+commit 97f600a6f7e0168a5686ac597b1d99fbff693841
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 13:35:33 2018 +0800
+
+    update amend.txt
+
+commit 5a9f93e469ce4927926395b37c1aa470eb43afef
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 11:02:09 2018 +0800
+
+    haha
+
+commit e1e7ebec557e7a0f37b920fcafef563fdd4532a1
+Author: zhaoshuang <shuang_zhao_yl@163.com>
+Date:   Tue May 22 10:58:46 2018 +0800

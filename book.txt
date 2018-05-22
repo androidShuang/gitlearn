@@ -1,7 +1,7 @@
 delete all by guo
 add java by guo
+<<<<<<< HEAD
 新的内容1
 
 
 远程已经提交了
-
